@@ -58,4 +58,4 @@ def random_fact(request):
 def hireme(request):
     payload = request.data or {}
     note = payload.get("note", "Thanks for reaching out!")
-    return Response({"message": note, "contact": "youremail@example.com"})
+    return Response({"message": note, "contact": "connect.with.devraj@gmail.com"})
