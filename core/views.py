@@ -18,7 +18,7 @@ PROJECTS = [
         "name": "SEO Scanner",
         "description": "Async SEO crawler with schema extraction & PageSpeed integration.",
         "tech": ["Django", "Playwright", "DRF"],
-        "links": {"repo": "https://github.com/your/repo"}
+        "links": {"repo": "https://github.com/theyvraj?tab=repositories"}
     },
     {
         "name": "Inventory System",
@@ -46,7 +46,7 @@ def projects(request): return Response(PROJECTS)
 @api_view(["POST"])
 def resume(request):
     return Response({
-        "download": "https://YOUR-CV-URL.pdf",
+        "download": "https://limewire.com/d/iUKoj#QCyFpTyi2y",
         "format": "pdf",
     })
 
