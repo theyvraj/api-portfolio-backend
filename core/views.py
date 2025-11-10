@@ -3,9 +3,9 @@ from rest_framework.response import Response
 from rest_framework import status
 
 ABOUT = {
-    "name": "Dev",
+    "name": "Devraj Singh",
     "role": "Backend Developer",
-    "location": "India",
+    "location": "Jaipur, Rajasthan, India",
     "tech_stack": ["Python", "Django", "DRF", "Playwright", "AsyncIO"],
     "summary": "I build API-first systems and automation tools."
 }
